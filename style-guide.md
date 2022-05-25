@@ -11,13 +11,20 @@ The designs were created to the following widths:
 
 ### Primary
 
+// ده فاتح جدا
+
 - Pale blue: hsl(225, 100%, 94%)
+  //ده لون كلمة change
 - Bright blue: hsl(245, 75%, 52%)
 
 ### Neutral
 
+// ده شبه الابيض
+
 - Very pale blue: hsl(225, 100%, 98%)
+  //ده جراى
 - Desaturated blue: hsl(224, 23%, 55%)
+  //ده ازرق غامق زى لون ال title
 - Dark blue: hsl(223, 47%, 23%)
 
 ## Typography
