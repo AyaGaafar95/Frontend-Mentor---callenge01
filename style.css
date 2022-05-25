@@ -78,6 +78,10 @@ body {
   font-weight: 900;
   color: hsl(245, 75%, 52%);
 }
+.midle-Box a:hover {
+  text-decoration: none;
+  color: hsl(224, 23%, 55%);
+}
 .btn1 {
   text-decoration: none;
   font-weight: 900;
@@ -89,6 +93,9 @@ body {
   margin: 50px 0;
   margin-bottom: 25px;
 }
+.btn1:hover {
+  background-color: #766cf1;
+}
 .btn2 {
   text-decoration: none;
   font-weight: 900;
@@ -96,4 +103,12 @@ body {
   display: block;
   padding: 0px;
   margin-bottom: 15px;
+}
+.btn2:hover {
+  color: #2d3857;
+}
+@media only screen and (max-width: 400px) {
+  .container {
+    max-width: 90%;
+  }
 }
