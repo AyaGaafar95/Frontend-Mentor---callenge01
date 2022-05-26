@@ -111,4 +111,46 @@ body {
   .container {
     max-width: 90%;
   }
+
+  .title {
+    color: hsl(223, 47%, 23%);
+    /* color: hsl(228, 45%, 44%); */
+    font-weight: 900;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+  }
+  .text-content p.subtitle {
+    font-weight: 900;
+    font-size: 1em;
+    margin-bottom: 45px;
+    line-height: 25px;
+    margin-inline: 5%;
+  }
+
+  .midle-Box div h5 {
+    font-weight: 900;
+    font-size: 16px;
+    color: hsl(223, 47%, 23%);
+    margin-bottom: 5px;
+  }
+  .midle-Box div p {
+    font-weight: 900;
+    font-size: 15px;
+    /* color: hsl(224, 23%, 55%); */
+    color: #99a7b8;
+  }
+
+  .btn1 {
+    text-decoration: none;
+    font-weight: 900;
+    padding: 15px 0px;
+    margin: 50px 0;
+    margin-bottom: 25px;
+  }
+
+  .btn2 {
+    text-decoration: none;
+    font-weight: 900;
+    margin-bottom: 10px;
+  }
 }
